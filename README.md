@@ -5,7 +5,7 @@ Each folder is named after the problem ID and title for easier navigation.
 
 ⚙️ Environment
 
-Language: C++17, python
+Language: C++17, python3
 
 IDE: LeetSync / VS Code
 
