@@ -1,11 +1,11 @@
 📘 LeetCode Challenges
 
-This repository contains my C++ solutions for various LeetCode problems.
+This repository contains my solutions for various LeetCode problems.
 Each folder is named after the problem ID and title for easier navigation.
 
 ⚙️ Environment
 
-Language: C++17
+Language: C++17, python
 
 IDE: LeetSync / VS Code
 
